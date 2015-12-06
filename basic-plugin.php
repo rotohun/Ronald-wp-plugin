@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Ronald's first plugin
-Description: Ronald's first plugin
+Description: Ronald's first plugin This plugin will just take you too google analytics. :)
 Plugin URI: http://ronaldhunter.co
 Author: Ronald Hunter
 Author URI: http://ronaldhunter.co
